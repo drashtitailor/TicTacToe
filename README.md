@@ -28,7 +28,7 @@ To compile and run this project, you need:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/tictactoe.git
+   git clone https://github.com/drashtitailor/TicTacToe.git
    cd tictactoe
 
 
